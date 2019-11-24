@@ -1,2 +1,2 @@
-# praktikum4
-Bismillah
+# PENJELASAN PROGRAM LIST NILAI MAHASISWA
+
